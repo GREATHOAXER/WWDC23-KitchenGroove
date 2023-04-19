@@ -10,6 +10,7 @@
 ## 📸 ScreenShot
 | KitchenGroove | Onboarding | MainPage |
 |---|---|---|
+| <image width="300" src="Screenshots/Initial.PNG"> |
 | Mixer | Frypan | Salt Bottle |
 |---|---|---|
 |Zipper bag|
