@@ -3,7 +3,7 @@
 
 <br>
 
-## About 'Kitchen Groove'
+## 📜 About 'Kitchen Groove'
 
 <br>
 
@@ -15,4 +15,4 @@
 
 <br>
 
-## License
+## ⚖ License
