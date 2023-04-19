@@ -8,6 +8,12 @@
 <br>
 
 ## 📸 ScreenShot
+| KitchenGroove | Onboarding | MainPage |
+|---|---|---|
+| Mixer | Frypan | Salt Bottle |
+|---|---|---|
+|Zipper bag|
+|---|
 
 <br> 
 
