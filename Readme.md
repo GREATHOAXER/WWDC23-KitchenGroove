@@ -10,11 +10,11 @@
 ## 📸 ScreenShot
 | KitchenGroove | Onboarding | MainPage |
 |---|---|---|
-| <image width="300" src="Screenshots/Initial.PNG"> | <image width="300" src="Screenshots/Onboarding.PNG"> | <image width="300" src="Screenshots/Main.PNG"> |
+| <image width="500" src="Screenshots/Initial.PNG"> | <image width="500" src="Screenshots/Onboarding.PNG"> | <image width="500" src="Screenshots/Main.PNG"> |
 | Mixer | Frypan | Salt Bottle |
-| <image width="300" src="Screenshots/Mixer.PNG"> | <image width="300" src="Screenshots/Frypan.PNG"> | <image width="300" src="Screenshots/SaltBottle.PNG"> |
+| <image width="500" src="Screenshots/Mixer.PNG"> | <image width="500" src="Screenshots/Frypan.PNG"> | <image width="500" src="Screenshots/SaltBottle.PNG"> |
 |Zipper bag|---|---|
-| <image width="300" src="Screenshots/Zipper.PNG"> | --- | --- |
+| <image width="500" src="Screenshots/Zipper.PNG"> | --- | --- |
 
 
 <br> 
