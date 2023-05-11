@@ -31,5 +31,5 @@ The main goal of the app is to create an interactive experience where users can 
 
 <br>
 
-## ⚖ License
+## ⚖ Credit & License
 All of the materials in app, such as music, effects are free to use. You can see the licenses of the materials in https://github.com/GREATHOAXER/WWDC23-KitchenGroove/blob/main/license.txt
